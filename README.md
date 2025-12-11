@@ -1,7 +1,4 @@
 
-![GitHub Activity](<img width="320" height="320" alt="image" src="https://seeklogo.com/free-vector-logos/github)" />
-
-)
 <h1 align="center">👋 Hello, This is Durgesh!</h1>
 
 <p align="center">
