@@ -1,5 +1,5 @@
 
-![GitHub Activity](https://github.com/Durgesh-Kumar-Dewangan/)
+![GitHub Activity](https://github.com/Durgesh-Kumar-Dewangan/https://seeklogo.com/free-vector-logos/github)
 <h1 align="center">👋 Hello, This is Durgesh!</h1>
 
 <p align="center">
