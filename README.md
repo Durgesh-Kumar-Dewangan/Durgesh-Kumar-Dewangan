@@ -1,5 +1,5 @@
 
-![GitHub Activity](<<img width="320" height="320" alt="image" src="[https://github.com/user-attachments/assets/1e5ae026-6788-4838-8eb3-25ab1e38ee75](https://seeklogo.com/free-vector-logos/github)" />
+![GitHub Activity](<<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/1e5ae026-6788-4838-8eb3-25ab1e38ee75](https://seeklogo.com/free-vector-logos/github)" />
 
 )
 <h1 align="center">👋 Hello, This is Durgesh!</h1>
