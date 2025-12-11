@@ -1,73 +1,60 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Durgesh-Kumar-Dewangan</h1>
-<h3 align="center">Developer • Programmer • Creator</h3>
+
+![GitHub Activity](https://github.com/Durgesh-Kumar-Dewangan/)
+<h1 align="center">👋 Hello, This is Durgesh!</h1>
+
+<p align="center">
+  <samp>
+    🚀 Student of Btech (Hons) in CSE AI Department| 💡 Passionate Learner | 🌍 Bhilai, Chattisgarh
+  </samp>
+</p>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/durgeshkumardewangan/">LinkedIn</a> |
+</p>
+
+<!-- Add this code where you want to display the total commits in your README -->
+
+
+
+<h2 align="center">Skills</h2>
+<p align="center">
+  <samp>
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C">&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++">&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Microsoft Excel">&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" alt="Microsoft Word">
+     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/communication.png" alt="Communication">
+    <img src="https://img.icons8.com/?size=48&id=VdbUaq1ZLjT2&format=png&color=000000" alt="React">
+    <img src="https://img.icons8.com/?size=48&id=CLvQeiwFpit4&format=png&color=000000" alt="R">
+  </samp>
+</p>
+###
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=HridyeshKumar&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
 
 ---
 
-## 🧭 GitHub Activity (Public + Private)
-> Shows commits, issues, PRs, and contributions across all repos  
-> *Private contributions display only if enabled in GitHub profile settings*
+
+ ###
+
+<h2 align="center">Connect with Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/durgeshkumardewangan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Durgesh-Kumar-Dewangan&theme=react-dark&hide_border=true)
 
 ---
 
-## 📈 GitHub Stats
-> Real-time stats including private contributions and streaks
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Durgesh-Kumar-Dewangan&show_icons=true&count_private=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Durgesh-Kumar-Dewangan&theme=tokyonight" height="170"/>
-</p>
-
----
-
-## 🛠️ Live Programming-Language Usage
-> Automatically updates based on your GitHub repositories
-
-### 🔥 Overall Language Usage
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Durgesh-Kumar-Dewangan&layout=compact&theme=tokyonight)
-
-### 📦 Repo-Specific Language Breakdown  
-> Replace `REPO_NAME` with your repository name
-
-
-
-
-
-
-
-
-
-
-
-
-Example:
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Durgesh-Kumar-Dewangan&repo=YOUR_REPO&theme=tokyonight)
-
----
-
-## 🚀 Latest GitHub Events (Live)
-> Updates automatically using GitHub's public event feed
-
-![GitHub Events](https://github-readme-activity-graph.vercel.app/graph?username=Durgesh-Kumar-Dewangan&custom_title=Recent%20GitHub%20Events&hide_border=true&theme=tokyonight)
-
----
-
-## 🌍 Social Links
-You can add your social media here:
-
-- Portfolio: https://yourwebsite.com  
-- LinkedIn: https://linkedin.com/durgeshkumardewangan  
-- Twitter: https://twitter.com/yourprofile  
-
----
-
-### ⏳ Contribution Snake (Animated)
-
-![GitHub Snake Animation](https://github.com/Durgesh-Kumar-Dewangan/Durgesh-Kumar-Dewangan/blob/output/github-contribution-grid-snake.svg)
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATI![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight)
-ME_USERNAME&theme=tokyonight)
 
