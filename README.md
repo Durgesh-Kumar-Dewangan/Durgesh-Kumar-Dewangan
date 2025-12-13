@@ -32,27 +32,6 @@
     <img src="https://img.icons8.com/?size=48&id=CLvQeiwFpit4&format=png&color=000000" alt="R">
   </samp>
 </p>
-###
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=HridyeshKumar&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-
-
----
-
-
- ###
-
-<h2 align="center">Connect with Me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/durgeshkumardewangan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Durgesh-Kumar-Dewangan&theme=react-dark&hide_border=true)
 
 ---
 
