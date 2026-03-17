@@ -38,3 +38,42 @@
 
 
 
+# Durgesh Kumar Dewangan
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=DURGESH+KUMAR+DEWANGAN;FULL+STACK+ENGINEER;PROBLEM+SOLVER" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Durgesh-Kumar-Dewangan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Durgesh-Kumar-Dewangan&show_icons=true&theme=transparent&title_color=3b82f6&text_color=a1a1aa&icon_color=3b82f6&border_color=ffffff15&hide_border=false&border_radius=10" />
+  </a>
+  <a href="https://github.com/Durgesh-Kumar-Dewangan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgesh-Kumar-Dewangan&layout=compact&theme=transparent&title_color=3b82f6&text_color=a1a1aa&border_color=ffffff15&hide_border=false&border_radius=10" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,mongodb,tailwind,figma,git,docker,aws&perline=10" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Durgesh-Kumar-Dewangan&theme=transparent&hide_border=false&border_radius=10&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&border=ffffff15" />
+</p>
+
+<hr />
+
+### 🛠 Engineering Log
+- 🔭 Working on: **Scalable Distributed Systems**
+- ⚡ Focus: **Performance Optimization & UI Craft**
+- 💬 Ask me about: **React, Node.js, and System Design**
+
+<p align="right">
+  <a href="https://www.linkedin.com/in/durgeshkumardewangan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Durgesh-Kumar-Dewangan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
