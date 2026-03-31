@@ -76,7 +76,7 @@
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourprofile&layout=compact&theme=dark&background_color=0D1117)](https://github.com/yourprofile)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Durgesh-Kumar-Dewangan&layout=compact&theme=dark&background_color=0D1117)](https://github.com/Durgesh-Kumar-Dewangan/)
 
 </div>
 
