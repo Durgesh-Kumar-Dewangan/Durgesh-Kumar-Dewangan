@@ -41,7 +41,7 @@
 # Durgesh Kumar Dewangan
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=+🌱+DURGESH+KUMAR+DEWANGAN;FULL+STACK+AI/ML+ENGINEER;PROBLEM+SOLVER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=+'🌱'+DURGESH+KUMAR+DEWANGAN;FULL+STACK+AI/ML+ENGINEER;PROBLEM+SOLVER" alt="Typing SVG" />
 </p>
 
 <p align="center">
