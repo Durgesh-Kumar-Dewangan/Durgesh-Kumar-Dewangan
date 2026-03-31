@@ -63,6 +63,26 @@
 
 <hr />
 
+
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Durgesh-Kumar-Dewangan&theme=dark&background=0D1117)](https://github.com/Durgesh-Kumar-Dewangan/))
+
+</div>
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| **Total Contributions** | ![](https://img.shields.io/badge/622-blue?style=flat-square) |
+| **Current Streak** | ![](https://img.shields.io/badge/1%20Day-brightgreen?style=flat-square) |
+| **Longest Streak** | ![](https://img.shields.io/badge/6%20Days-orange?style=flat-square) |
+| **Active Days** | ![](https://img.shields.io/badge/127-blueviolet?style=flat-square) |
+
+</div>
+
+
 ### 🛠 Engineering Log
 - 🔭 Working on: **Scalable Distributed Systems**
 - ⚡ Focus: **Performance Optimization & UI Craft**
