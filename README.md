@@ -55,7 +55,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourprofile&theme=dark&background=0D1117)](https://github.com/yourprofile)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Durgesh-Kumar-Dewangan&theme=dark&background=0D1117)](https://github.com/Durgesh-Kumar-Dewangan/))
 
 </div>
 
